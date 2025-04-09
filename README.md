@@ -11,8 +11,8 @@
  <p>*Medianas y pequeñas empresas dedicadas al comercio</p>
 <h4>3 Funcionalidades clave</h4>
 <ls>
-   <li>Interaccion con el inventario de la empresa</li>
-   <li>Panel de opcion multiple que muestre el catalogo de la empresa</li>
+   <li>Interaccion de facil comprension Usuario y Bot</li>
+   <li>Panel de opcion multiple que muestre el catalogo de la empresa y Interaccion con el inventario de la empresa</li>
    <li>Recoleccion de datos del cliente, para su envio posterior a la empresa</li>
 </ls>
 
