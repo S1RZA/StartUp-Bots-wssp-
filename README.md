@@ -4,6 +4,6 @@
 <hr>
 
 <h2>Product Owner - Requisitos</h2>
-<h3>Problema que resuelve:
-<p>Automatiazcion de procesos administrativos</p></h3> 
+<h3>Problema que resuelve:</h3>
+<p>Automatiazcion de procesos administrativos</p> 
 
