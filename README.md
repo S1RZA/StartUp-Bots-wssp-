@@ -4,3 +4,5 @@
 <hr>
 
 <h2>Product Owner - Requisitos</h2>
+
+<p>product owner= Leandro, Analisis=Simon, Diseño=Esteban, Implementacion=Diego, Pruebas=Sara y michael, mantenimiento=despliegue</p>
