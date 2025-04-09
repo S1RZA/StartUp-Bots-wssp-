@@ -6,7 +6,7 @@
 
 <h2>🦉Product Owner - Requisitos</h2>
 <h4>Problema que resuelve:</h4>
-<p>*Automatizacion de procesos administrativos</p> 
+<p>*Lentitud y confusiones al momento de realizar una venta</p> 
 <h4>Publico objetivo:</h4>
 <p>*Medianas y pequeñas empresas dedicadas al comercio</p>
 <h4>3 Funcionalidades clave</h4>
