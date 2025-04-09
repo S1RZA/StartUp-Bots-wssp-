@@ -10,34 +10,39 @@
 <h4>Publico objetivo:</h4>
  <p>*Medianas y pequeñas empresas dedicadas al comercio</p>
 <h4>3 Funcionalidades clave</h4>
-<ls>
-   <li>Interaccion de facil comprension Usuario y Bot</li>
+
+ <ol>
+   <li>Interaccion de facil comprension Usuario y Bot<lo></li>
    <li>Panel de opcion multiple que muestre el catalogo de la empresa y Interaccion con el inventario de la empresa</li>
    <li>Recoleccion de datos del cliente, para su envio posterior a la empresa</li>
-</ls>
+ </ol>   
 
-<h2>📊Analista - Analisis</h2>
+  <h2>📊Analista - Analisis</h2>
 
 <h4>Tareas:</h4>
+
+<ul>
+  <ol>
    <li>Crear un sistema del inventario de la empresa a tiempo real</li>
    <li>Configurar paneles de opcion multiple al bot los cuales permitan la interaccion facil con el usuario</li>
    <li>Realizar una encuesta de datos del cliente para finalizar el pedido y enviar un ticket unico a la empresa</li>
-
+  </ol>
+</ul>
 <h4>Dificultad estimada</h4>
-<ls>
+<ul>
    <li>Inventario: Alta</li>
    <li>Paneles de bot: Baja</li>
    <li>Encuesta/ticket unico: Alta</li>
-</ls>
+</ul>
 
 <h4>Restricciones</h4>
-<ls>
+<ul>
    <li>Necesitaremos que el cliente mantenga su inventario actualizado en orden del buen funcionamiento del bot</li>
    <li>El bot no realizara transacciones de dinero</li>
-</ls>
+</ul>
 
 <h2>⚙️Desarrollador - Implementacion</h2>
-<ls>
+<ul>
    <li>Feature implementada:</li>
    <li>Pseudocódigo:</li>
    
@@ -88,7 +93,7 @@
     Escribir "Redireccionando al proceso de pago, gracias por elegirnos!"
 
     FinProceso
-</ls>
+</ul>
 
 <h2>🕵️QA Tester - Pruebas</h2>
 
