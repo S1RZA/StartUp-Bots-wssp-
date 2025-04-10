@@ -108,3 +108,17 @@
     
    <li>Si el usuario pregunta caracteristicas extras del producto, la interaccion finaliza</li>
    <li>Si el usuario no copia correctamente la opcion de Si/No, la interaccion finaliza</li>
+
+<h2>🔜DevOps/Mantenimiento - Despliegue</h2>
+<h4>Despliegue y Mantenimiento</h4>
+
+   <li>El bot se despliega en servidores Linux (Ubuntu Server).</li>
+
+   <li>Se automatiza el despliegue y configuraciones con scripts Bash.</li>
+
+   <li>Se monitorean logs y uso de recursos con herramientas del sistema como journalctl y top.</li>
+
+<h4>Mejoras/Futuras propuestas</h4>
+
+   <li>Dockerización del bot: Para facilitar el despliegue, portabilidad y estandarización del entorno.</li>
+   <li>Sistema de monitoreo con alertas: Para detectar caídas o errores en tiempo real.</li>
