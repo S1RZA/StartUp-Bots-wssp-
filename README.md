@@ -41,9 +41,9 @@
    <li>El bot no realizara transacciones de dinero</li>
 </ul>
 
-<h2>Diseñador - UX/UI - Bocetos y flujo</h2>
+<h2>🎨Diseñador - UX/UI - Bocetos y flujo</h2>
 
-<h4>🖼🎨Link a la pagina oficial de los clientes</h4>
+<h4>Link a la pagina oficial de los clientes</h4>
 
 ![image](https://github.com/user-attachments/assets/f958c047-3cb7-43d3-896a-db0f4c4054b7)
 
