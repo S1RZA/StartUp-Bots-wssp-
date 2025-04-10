@@ -12,7 +12,7 @@
 <h4>3 Funcionalidades clave</h4>
 
  <ol>
-   <li>Interaccion de facil comprension Usuario y Bot<lo></li>
+   <li>Interaccion de facil comprension Usuario y Bot y promover el sitio oficial de los clientes<lo></li>
    <li>Panel de opcion multiple que muestre el catalogo de la empresa y Interaccion con el inventario de la empresa</li>
    <li>Recoleccion de datos del cliente, para su envio posterior a la empresa</li>
  </ol>   
@@ -40,6 +40,13 @@
    <li>Necesitaremos que el cliente mantenga su inventario actualizado en orden del buen funcionamiento del bot</li>
    <li>El bot no realizara transacciones de dinero</li>
 </ul>
+
+<h2>Diseñador - UX/UI - Bocetos y flujo</h2>
+
+<h4>🖼🎨Link a la pagina oficial de los clientes</h4>
+
+![image](https://github.com/user-attachments/assets/f958c047-3cb7-43d3-896a-db0f4c4054b7)
+
 
 <h2>⚙️Desarrollador - Implementacion</h2>
 <ul>
