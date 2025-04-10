@@ -47,6 +47,20 @@
 
 ![image](https://github.com/user-attachments/assets/f958c047-3cb7-43d3-896a-db0f4c4054b7)
 
+<h4>Simulacion de conversacion con el bot</h4>
+
+ 
+![image](https://github.com/user-attachments/assets/96a60f76-718d-4292-8a74-96d3413a848d)
+![image](https://github.com/user-attachments/assets/e859a417-6a1d-4dee-b42e-a46f65cbaa04)
+ 
+<h4>Diagrama de flujo</h4>
+
+
+ <div style="display: flex; justify-content: center;">
+
+ ![image](https://github.com/user-attachments/assets/57d1a9df-f06b-46c4-8092-71594220b83d)
+
+</div>
 
 <h2>⚙️Desarrollador - Implementacion</h2>
 <ul>
@@ -129,3 +143,5 @@
 
    <li>Dockerización del bot: Para facilitar el despliegue, portabilidad y estandarización del entorno.</li>
    <li>Sistema de monitoreo con alertas: Para detectar caídas o errores en tiempo real.</li>
+
+ 
