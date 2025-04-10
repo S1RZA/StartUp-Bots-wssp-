@@ -64,7 +64,7 @@
 
 <h2>⚙️Desarrollador - Implementacion</h2>
 <ul>
-   <li>Feature implementada:</li>
+   <li>Feature implementada:Panel de opcion multiple que muestre el catalogo de la empresa y Interaccion con el inventario de la empresa</li>
    <li>Pseudocódigo:</li>
    
     Dimensionar inventario[10], Disponibles[10]
