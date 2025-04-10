@@ -1,7 +1,7 @@
 # StartUp-Bots-wssp-
 
 
-<h1>🤖MarkEthingBot💸 (MEB)</h1> <br>
+<h1>🤖SalesIqBot💸 (SIB)</h1> <br>
 <hr>
 
 <h2>🦉Product Owner - Requisitos</h2>
